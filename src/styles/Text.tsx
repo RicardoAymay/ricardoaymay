@@ -37,6 +37,14 @@ export const Text = styled("p", {
                 fontWeight: 700,
                 ...headingsDefaultConfig
             },
+            heading3ident: {
+                fontSize: "$title3",
+                lineHeight: "$title3",
+                fontWeight: 700,
+                textIndent: "20px",
+                textAlign: "justify",
+                ...headingsDefaultConfig
+            },
             heading4: {
                 fontSize: "$title4",
                 lineHeight: "$title4",

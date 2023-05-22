@@ -31,6 +31,12 @@ export const Contacts = () => {
           <motion.div style={{ scale }}>
             <ContactSectionText>
               <Text type="heading2" color="grey4">
+                About me!
+              </Text>
+              <Text type="heading3ident" color="grey4">
+                My name is Ricardo Aymay Gonçalves and I'm currently finishing a 1-year full-stack course by Kenzie Academy Brazil. After more than 10 years studyng biology with a masters degree in Health and Life Sciences, I decided to go through other ways in life, so programming is what I have chosen. I'm more adept to the front end than the back end.
+              </Text>
+              <Text type="heading2" color="grey4">
                 Let's talk and{" "}
                 <Text as="span" type="heading2" color="brand1">
                   develop solutions for your company
